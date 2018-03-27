@@ -1,19 +1,20 @@
-# Welcome to the very first Birmingham Area Code Connective Co-Op
- We're very excited for this to be happening, and we hope to watch each other grow and learn together. A big thanks goes out to TrueCoders and Whiteboard It for hosting us this evening.
+# Welcome to the very second Birmingham Area Code Connective Co-Op
+ We're very excited for this to be happening, and we hope to watch each other grow and learn together. A big thanks goes out to Innovation Depot and Coworking Night Birmingham for hosting us this evening.
 
 ### WiFi
 This is the info to access the wifi:
-* Network Name: "TrueCoders Wifi"
-* Password: `It's written on the whiteboard`
+* Network Name: "InnovationDepotGuest"
+* Password: No password is needed
 
 Heres a bunch of free or low cost resources that will probably get brought up or mentioned through out the meet up. I always find it funny that we're in the Information Age, yet it's hard to stay focused on one singular, resource. If you don't get anything else out of this meet up, I hope these 3 suggestions will help you.
 
 1. Make at least one friend tonight that seems to have similar goals as yourself.
 2. Pick ONE AND ONLY ONE course.
 3. Work through that course together and motivate each other.
+4. [Stay connected with us on our Slack Channel!](https://goallyme.com/Event/Checkin/aabd84aa-607e-4b68-85a5-aa0bc7ed33b8)
 
-[If I could start over from the beginning, this is the one article I wish I would have read before embarking on this coding journey.](https://medium.freecodecamp.org/read-search-dont-be-afraid-to-ask-743a23c411b4)
-[If there was a second one it'd be this one.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto)
+If I could start over from the beginning, [this is the one article I wish I would have read before embarking on this coding journey.](https://medium.freecodecamp.org/read-search-dont-be-afraid-to-ask-743a23c411b4)
+If there was a second one it'd be [this one.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto)
 ### Browser Tutorials
 These are tutorials that are completed in a browser. They're really nifty, and most everyone that I know gets their start through one of these.
 
@@ -39,7 +40,7 @@ A MOOC is a Massive Open Online Course. Typically, there will be some mix of vid
     * [The Complete Web Developer Course 2.0 by Rob Perceival](https://www.udemy.com/the-complete-web-developer-course-2/?siteID=3PhbAxfdARQ-HW_QHqiEYECToLEKGE09Jg&LSNPUBID=3PhbAxfdARQ)
     * [The Advance Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
 
-3. [Pluralsight](https://www.pluralsight.com/) - this is Microsoft's learning platform. It is extraordinarily vast and in depth. I haven't actually found a course that I love and swear by, but 
+3. [Pluralsight](https://www.pluralsight.com/) - this is Microsoft's learning platform. It is extraordinarily vast and in depth. I haven't actually found a course that I love and swear by, but
 [click this link](https://login.microsoftonline.com/common/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&site_id=501446&response_mode=form_post&response_type=code+id_token&redirect_uri=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_signedin&nonce=32cad59f-e5d8-48e3-92fc-45a0f0e05426&state=realm%3Dapp.vssps.visualstudio.com%26allow_passthrough%3DTrue%26reply_to%3Dhttps%253A%252F%252Fmy.visualstudio.com%253A443%252F%253Fauth_redirect%253Dtrue%26nonce%3D32cad59f-e5d8-48e3-92fc-45a0f0e05426&resource=https%3A%2F%2Fmanagement.core.windows.net%2F&cid=32cad59f-e5d8-48e3-92fc-45a0f0e05426&wsucxt=1&prompt=select_account) and either sign in or create a Microsoft account. It will give you three months access. When your three months are up, create a new account with a new email; wash, rinse, and repeat.
 
 *“A mind that is stretched by a new experience can never go back to its old dimensions.”* - [Oliver Wendell Holmes, Jr](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.)
