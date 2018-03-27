@@ -5,6 +5,7 @@
 This is the info to access the wifi:
 * Network Name: "InnovationDepotGuest"
 * Password: No password is needed
+* [Check in here so we can stay connected](https://goallyme.com/Event/Checkin/aabd84aa-607e-4b68-85a5-aa0bc7ed33b8)
 
 Heres a bunch of free or low cost resources that will probably get brought up or mentioned through out the meet up. I always find it funny that we're in the Information Age, yet it's hard to stay focused on one singular, resource. If you don't get anything else out of this meet up, I hope these 3 suggestions will help you.
 
