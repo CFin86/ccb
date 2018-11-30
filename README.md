@@ -22,7 +22,7 @@ A MOOC is a Massive Open Online Course. Typically, there will be some mix of vid
 
 1. [Udemy](https://www.udemy.com/) - This is by far my favorite platform. DO NOT EVER PAY MORE THAN $10 FOR A UDEMY COURSE. Seriously, they run specials all the time. I'm sure you've seen the banners that say 'Only hours left to get courses at $9.99!' Don't believe them. Prices will go back up for about two weeks and then drop again. All courses have preview lectures, and I would **definitely** recommend going through the preview lectures before you buy a course. There's been times that I've bought a highly rated course, only to find that the instructors accent drove me crazy or his goattee distracted. Always remember, the best course is one that works for you.
 
-    * [Rally Coding by Stephen Grider](https://www.rallycoding.com/)
+    * [Rally Coding by Stephen Grider](https://www.rallycoding.com/)  
         *[Stephen Grider](https://twitter.com/ste_grider) is awesome. His site RallyCoding lays out a track of Udemy courses that he teaches*
     * [The Complete Web Developer Course 2.0 by Rob Perceival](https://www.udemy.com/the-complete-web-developer-course-2/?siteID=3PhbAxfdARQ-HW_QHqiEYECToLEKGE09Jg&LSNPUBID=3PhbAxfdARQ)
 
